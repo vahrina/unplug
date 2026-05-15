@@ -1,0 +1,12 @@
+{
+    "ID": "9D16677247BCFF039AADDC9575EF0ABA",
+    "ActionKeyword": "mnt",
+    "Name": "mnt",
+    "Description": "list & eject connected usb drives, including uas/scsi devices",
+    "Author": "vah",
+    "Version": "0.1",
+    "Language": "csharp",
+    "Website": "https://github.com/vahrina/unplug",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "mnt.dll"
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "mHy+tTGzRbc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vah\\scoop\\persist\\Flow-Launcher\\UserData\\repos\\eject-flow\\src\\mnt\\mnt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vah\\.nuget\\packages\\flow.launcher.plugin\\4.4.0\\flow.launcher.plugin.4.4.0.nupkg.sha512",
+    "C:\\Users\\vah\\.nuget\\packages\\fody\\6.5.1\\fody.6.5.1.nupkg.sha512",
+    "C:\\Users\\vah\\.nuget\\packages\\jetbrains.annotations\\2024.2.0\\jetbrains.annotations.2024.2.0.nupkg.sha512",
+    "C:\\Users\\vah\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512",
+    "C:\\Users\\vah\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\vah\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512",
+    "C:\\Users\\vah\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\vah\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\vah\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,1 @@
+[icon](https://www.flaticon.com/de/kostenloses-icon/usb-anschluss_17830479?term=usb&page=2&position=55&origin=tag&related_id=17830479)

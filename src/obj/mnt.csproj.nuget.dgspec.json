@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vah\\scoop\\persist\\Flow-Launcher\\UserData\\repos\\eject-flow\\src\\mnt\\mnt.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vah\\scoop\\persist\\Flow-Launcher\\UserData\\repos\\eject-flow\\src\\mnt\\mnt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vah\\scoop\\persist\\Flow-Launcher\\UserData\\repos\\eject-flow\\src\\mnt\\mnt.csproj",
+        "projectName": "mnt",
+        "projectPath": "C:\\Users\\vah\\scoop\\persist\\Flow-Launcher\\UserData\\repos\\eject-flow\\src\\mnt\\mnt.csproj",
+        "packagesPath": "C:\\Users\\vah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vah\\scoop\\persist\\Flow-Launcher\\UserData\\repos\\eject-flow\\src\\mnt\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vah\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Flow.Launcher.Plugin": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "System.Management": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.107\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

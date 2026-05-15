@@ -1,0 +1,8 @@
+C:\Users\vah\scoop\persist\Flow-Launcher\UserData\repos\eject-flow\publish\plugin.json
+C:\Users\vah\scoop\persist\Flow-Launcher\UserData\repos\eject-flow\publish\mnt.dll
+C:\Users\vah\scoop\persist\Flow-Launcher\UserData\repos\eject-flow\publish\mnt.deps.json
+C:\Users\vah\scoop\persist\Flow-Launcher\UserData\repos\eject-flow\publish\Flow.Launcher.Plugin.dll
+C:\Users\vah\scoop\persist\Flow-Launcher\UserData\repos\eject-flow\publish\JetBrains.Annotations.dll
+C:\Users\vah\scoop\persist\Flow-Launcher\UserData\repos\eject-flow\publish\PropertyChanged.dll
+C:\Users\vah\scoop\persist\Flow-Launcher\UserData\repos\eject-flow\publish\System.Management.dll
+C:\Users\vah\scoop\persist\Flow-Launcher\UserData\repos\eject-flow\publish\runtimes\win\lib\net7.0\System.Management.dll

@@ -1,7 +1,5 @@
 # unplug me!
 
-> for safety reasons :)
-
 flow launcher plugin to list & eject connected usb, uas & scsi devices
 
 ## usage
@@ -15,7 +13,7 @@ prefix: `mnt`
 
 ```powershell
 cd src
-dotnet build -c Release
+dotnet build -c release
 ```
 
-copy all contents from `src/bin/Release` into your flow launcher plugin folder, e.g. `src/bin/Release` --> `Plugins/eject-flow/`
+copy all contents from `src/bin/release` into your flow launcher plugin folder, e.g. `src/bin/release` --> `plugins/unplug/`
